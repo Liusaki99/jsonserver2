@@ -1,12 +1,23 @@
 [{
   "usuario":[{
-    "foto":"",
-    "nombres":"",
-    "apellidoP":"",
-    "telefonoCelular":"",
-    "telefonoCasa":"",
-    "email":"",
-    "direccion":""
-  }]
+    "foto":"null",
+    "nombres":"Ejemplo1",
+    "apellidoP":"Apellido1",
+    "telefonoCelular":"1234567890",
+    "telefonoCasa":"1234567890",
+    "email":"alguien@algo.com",
+    "direccion":"Su Casa"
+  },
+  {
+    "foto":"null",
+    "nombres":"Ejemplo2",
+    "apellidoP":"Apellido2",
+    "telefonoCelular":"1234567890",
+    "telefonoCasa":"1234567890",
+    "email":"ejemplo@algo.com",
+    "direccion":"Mi Casa"
+  }
+]
+
 }]
 
