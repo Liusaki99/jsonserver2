@@ -1,0 +1,11 @@
+{
+  "usuario":[{
+    "foto":"",
+    "nombres":"",
+    "apellidoP":"",
+    "telefonoCelular":"",
+    "telefonoCasa":"",
+    "email":"",
+    "direccion":""
+  }]
+}
