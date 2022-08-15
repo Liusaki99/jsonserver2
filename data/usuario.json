@@ -1,4 +1,4 @@
-{
+[{
   "usuario":[{
     "foto":"",
     "nombres":"",
@@ -8,4 +8,5 @@
     "email":"",
     "direccion":""
   }]
-}
+}]
+
